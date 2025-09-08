@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Asignacion4_CalculadoraIMC_Limon">
         <activity
-            android:name=".MainActivity"
+            android:name=".Asignacion4_CalculadoraIMC_Limon"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

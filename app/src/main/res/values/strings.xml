@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Asignacion4_CalculadoraIMC_Limon</string>
+    <string name="estatura">Estatura en metros (ej 1.70)</string>
+    <string name="peso">Peso en kilos (ej 70)</string>
 </resources>
